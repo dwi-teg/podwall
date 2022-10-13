@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>softdev</title>
+
+				<link>https://shows.acast.com/softdev</link>
+				<spotify:access>
+      					<partner id="7jjNypbGynL6UGkriDPhSM"/>
+      					<sandbox enabled="true"/>
+    				</spotify:access>
+			<atom:link href="https://feeds.acast.com/public/shows/631cb158d97db90012aad6f7" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>Soft Dev</copyright>
+
+				<itunes:keywords/>
+
+				<itunes:author>Soft Dev</itunes:author>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[This is my very interesting podcast<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[This is my very interesting podcast<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Soft Dev</itunes:name>
+					<itunes:email>ruckuus@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>631cb158d97db90012aad6f7</acast:showId>
+
+				<acast:showUrl>softdev</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[C2wb2QH2RdZbSBrBfDJvjg==]]></acast:signature>
+				<acast:settings><![CDATA[frhNvmsi7RqUT19PIq2nFuVT4Dybjz3VlwLOqit4vR0XYKIHkU/7wJb02ntSleKkawIbrg+fO0qZcGH0fNzvMivSiKAIh7nLLtkYfChKOi7lLZSQtgMiBYtpsEIG29Fn8YZaopDV8iJzCNBxEGIcr2o0kX/1Vge2CjZ0qXHp89TF/8Yo1nxrjo+Mf+FHW4mXbVpLnUzF1+s16m7pLuefVIeq4OSMBdStH2tWS9KIO4CabHs4rNY9XqoVuZvHwbq0L4+SE4X9Y0MgknVGCiNSFNhTjmAAGPabnZ2TPXzfQU6/UfopmwPhhIHD+JRpnWcyzXO1LZ4+4W55nVVtzzRz8OwincS1JL8J23jWScs7aIh3uGiAtMZCKrpgdCC0RmyO2519DA00sL+YWun1kmgTsm2bvOn7MvG1IQZqhgRPEpL+4eJolpcIzL9hSb4lUExoPJ3dq93tERuKhom/8HMiALhM3naPaNtrGOBvczhs2B8=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://open-static.acast.com/global/images/default-cover.png"/>
+				<image>
+					<url>https://open-static.acast.com/global/images/default-cover.png</url>
+					<link>https://shows.acast.com/softdev</link>
+					<title>softdev</title>
+</image>
+
+				<item>
+						<title>Go Concurrency</title>
+
+						<itunes:title>Go Concurrency</itunes:title>
+
+						<pubDate>Sat, 10 Sep 2022 16:20:24 GMT</pubDate>
+
+						<itunes:duration>6:42</itunes:duration>
+
+					<enclosure url="https://sphinx.acast.com/p/open/s/631cb158d97db90012aad6f7/e/631cb9488b908d00117a4ac4/media.mp3" length="8042057" type="audio/mpeg"/>
+					<guid isPermaLink="false">631cb9488b908d00117a4ac4</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/softdev/episodes/go-concurrency</link>
+
+						<acast:episodeId>631cb9488b908d00117a4ac4</acast:episodeId>
+
+						<acast:episodeUrl>go-concurrency</acast:episodeUrl>
+
+						<acast:settings><![CDATA[frhNvmsi7RqUT19PIq2nFvJomz8mHXemMEsH8CoP6+fgm9uX294borLPxzp+9o8qbBZWMLeiRf7U4UNfbXeLhQvondLvVnPzMtgaWW0QRJ5amEsLSnwPRZNp8UwwE+0pOjDa54ZC9U0ZD2Fq7eUYBJVnHR8xLuJxtEtO76HyoKhx8sXevCTJm8YiRnn9EpkA8c5UeJQA3M5UcQ1xyJHOJa/0PZOI8goaqjy7x7EGVY7X5zTuOLmM/J81b2qer5Ml5kDAjGLfWSKK1Owk8BN+kMQe5h7OPGTJMx5uXEAQId1JA8/CDvsD7ppDMZ8W26q+qXY9t6X80Ylhc69kmoEqN7MZrK8LsxHsjJPyWEP594y0862CP2gHHHFO+WyebD1Pt/CX9wjsNLqXYSot9vnV5qly0OO5Hc8XeqGW7h5tYPUhabKha8shz+Ygr7W8QlYMYEyYFriMBqjWKgqUtuNAmsM/VoKm13VVFbUy0eKIr2qxywgFPryyrZpBylvwCPpxN7OkAP6UwvEHJ2aVyVlWLlHml92B56X9DgOALjgRrHJTMG+KyfMtths5RjDCFcJ4]]></acast:settings>
+
+						<itunes:subtitle>Executing many tasks concurrently with Go Concurrency</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>1</itunes:episode>
+
+						<description><![CDATA[Executing many tasks concurrently with Go Concurrency<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+						<itunes:summary><![CDATA[Executing many tasks concurrently with Go Concurrency<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="Technology"/>
+</channel>
+
+</rss>
