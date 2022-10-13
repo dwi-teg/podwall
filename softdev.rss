@@ -66,7 +66,7 @@
 
 						<link>https://shows.acast.com/softdev/episodes/go-concurrency</link>
 						<spotify:access>
-							<entitlement name="bonus-tier-subscribers"/>
+							<entitlement name="premium-tier-subscribers"/>
 						</spotify:access>
 
 						<acast:episodeId>631cb9488b908d00117a4ac4</acast:episodeId>
